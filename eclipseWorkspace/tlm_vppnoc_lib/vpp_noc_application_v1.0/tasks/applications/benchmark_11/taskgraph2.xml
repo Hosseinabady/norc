@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Application Id ="2" Size="3">
+  <Task Name="t2_0"  Type="1">
+    <Id>1</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>0</PredecessorTask>
+    <SuccessorTask Data_Volume="10">2</SuccessorTask>
+  </Task>
+  <Task Name="t2_1"  Type="1">
+    <Id>2</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>1</PredecessorTask>
+    <SuccessorTask Data_Volume="0">0</SuccessorTask>
+  </Task>
+
+</Application>

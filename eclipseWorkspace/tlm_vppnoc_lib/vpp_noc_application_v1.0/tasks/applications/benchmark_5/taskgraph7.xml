@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Application Id ="7" Size="13" LinkSize="20">
+  <Task Name="t7_0"  Type="19">
+    <Id>1</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>0</PredecessorTask>
+    <SuccessorTask Data_Volume="10">2</SuccessorTask>
+    <SuccessorTask Data_Volume="10">3</SuccessorTask>
+  </Task>
+  <Task Name="t7_1"  Type="8">
+    <Id>2</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>1</PredecessorTask>
+    <SuccessorTask Data_Volume="10">4</SuccessorTask>
+    <SuccessorTask Data_Volume="10">5</SuccessorTask>
+  </Task>
+  <Task Name="t7_2"  Type="2">
+    <Id>3</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>1</PredecessorTask>
+    <SuccessorTask Data_Volume="10">4</SuccessorTask>
+    <SuccessorTask Data_Volume="10">5</SuccessorTask>
+  </Task>
+  <Task Name="t7_3"  Type="3">
+    <Id>4</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>3</PredecessorTask>
+    <PredecessorTask>2</PredecessorTask>
+    <SuccessorTask Data_Volume="10">5</SuccessorTask>
+    <SuccessorTask Data_Volume="10">6</SuccessorTask>
+  </Task>
+  <Task Name="t7_4"  Type="8">
+    <Id>5</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>4</PredecessorTask>
+    <PredecessorTask>2</PredecessorTask>
+    <PredecessorTask>3</PredecessorTask>
+    <SuccessorTask Data_Volume="10">6</SuccessorTask>
+    <SuccessorTask Data_Volume="10">9</SuccessorTask>
+  </Task>
+  <Task Name="t7_5"  Type="19">
+    <Id>6</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>5</PredecessorTask>
+    <PredecessorTask>4</PredecessorTask>
+    <SuccessorTask Data_Volume="10">7</SuccessorTask>
+    <SuccessorTask Data_Volume="10">8</SuccessorTask>
+  </Task>
+  <Task Name="t7_6"  Type="0">
+    <Id>7</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>6</PredecessorTask>
+    <SuccessorTask Data_Volume="10">9</SuccessorTask>
+    <SuccessorTask Data_Volume="10">10</SuccessorTask>
+  </Task>
+  <Task Name="t7_7"  Type="19">
+    <Id>8</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>6</PredecessorTask>
+    <SuccessorTask Data_Volume="10">9</SuccessorTask>
+    <SuccessorTask Data_Volume="10">10</SuccessorTask>
+  </Task>
+  <Task Name="t7_8"  Type="17">
+    <Id>9</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>8</PredecessorTask>
+    <PredecessorTask>7</PredecessorTask>
+    <PredecessorTask>5</PredecessorTask>
+    <SuccessorTask Data_Volume="10">10</SuccessorTask>
+  </Task>
+  <Task Name="t7_9"  Type="17">
+    <Id>10</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>8</PredecessorTask>
+    <PredecessorTask>7</PredecessorTask>
+    <PredecessorTask>9</PredecessorTask>
+    <SuccessorTask Data_Volume="10">11</SuccessorTask>
+  </Task>
+  <Task Name="t7_10"  Type="18">
+    <Id>11</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>10</PredecessorTask>
+    <SuccessorTask Data_Volume="10">12</SuccessorTask>
+    <SuccessorTask Data_Volume="10">13</SuccessorTask>
+  </Task>
+  <Task Name="t7_11"  Type="13">
+    <Id>12</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>11</PredecessorTask>
+    <SuccessorTask Data_Volume="0">0</SuccessorTask>
+  </Task>
+  <Task Name="t7_12"  Type="15">
+    <Id>13</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>11</PredecessorTask>
+    <SuccessorTask Data_Volume="0">0</SuccessorTask>
+  </Task>
+</Application>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Application Id ="49" Size="6" LinkSize="7">
+  <Task Name="t49_0"  Type="13">
+    <Id>1</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>0</PredecessorTask>
+    <SuccessorTask Data_Volume="10">2</SuccessorTask>
+    <SuccessorTask Data_Volume="10">3</SuccessorTask>
+  </Task>
+  <Task Name="t49_1"  Type="2">
+    <Id>2</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>1</PredecessorTask>
+    <SuccessorTask Data_Volume="10">4</SuccessorTask>
+  </Task>
+  <Task Name="t49_2"  Type="5">
+    <Id>3</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>1</PredecessorTask>
+    <SuccessorTask Data_Volume="10">4</SuccessorTask>
+  </Task>
+  <Task Name="t49_3"  Type="18">
+    <Id>4</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>3</PredecessorTask>
+    <PredecessorTask>2</PredecessorTask>
+    <SuccessorTask Data_Volume="10">5</SuccessorTask>
+    <SuccessorTask Data_Volume="10">6</SuccessorTask>
+  </Task>
+  <Task Name="t49_4"  Type="9">
+    <Id>5</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>4</PredecessorTask>
+    <SuccessorTask Data_Volume="10">6</SuccessorTask>
+  </Task>
+  <Task Name="t49_5"  Type="15">
+    <Id>6</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>4</PredecessorTask>
+    <PredecessorTask>5</PredecessorTask>
+    <SuccessorTask Data_Volume="0">0</SuccessorTask>
+  </Task>
+</Application>

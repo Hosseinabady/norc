@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Application Id ="44" Size="4" LinkSize="3">
+  <Task Name="t44_0"  Type="15">
+    <Id>1</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>0</PredecessorTask>
+    <SuccessorTask Data_Volume="10">2</SuccessorTask>
+  </Task>
+  <Task Name="t44_1"  Type="13">
+    <Id>2</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>1</PredecessorTask>
+    <SuccessorTask Data_Volume="10">3</SuccessorTask>
+  </Task>
+  <Task Name="t44_2"  Type="15">
+    <Id>3</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>2</PredecessorTask>
+    <SuccessorTask Data_Volume="10">4</SuccessorTask>
+  </Task>
+  <Task Name="t44_3"  Type="15">
+    <Id>4</Id>
+    <ComputationTime>20</ComputationTime>
+    <PredecessorTask>3</PredecessorTask>
+    <SuccessorTask Data_Volume="0">0</SuccessorTask>
+  </Task>
+</Application>

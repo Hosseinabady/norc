@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<NoRCPlatform RowSize="10" ColumnSize="10">
+    <Application  Id="0"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="29" Status="mapped"/>
+            <SimulationTime Value="3000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="28" Status="mapped"/>
+            <SimulationTime Value="353000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="1"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="63" Status="mapped"/>
+            <SimulationTime Value="410000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="53" Status="mapped"/>
+            <SimulationTime Value="744000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="73" Status="mapped"/>
+            <SimulationTime Value="1161000"/>
+        </Task>
+        <Cost Manhattan="2" Reconfiguration="2"/>
+    </Application>
+    <Application  Id="2"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="87" Status="mapped"/>
+            <SimulationTime Value="1218000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="97" Status="mapped"/>
+            <SimulationTime Value="1568000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="3"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="13" Status="mapped"/>
+            <SimulationTime Value="1625000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="12" Status="mapped"/>
+            <SimulationTime Value="1959000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="4"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="27" Status="mapped"/>
+            <SimulationTime Value="2016000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="27" Status="mapped"/>
+            <SimulationTime Value="2324000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="26" Status="mapped"/>
+            <SimulationTime Value="2683000"/>
+        </Task>
+        <Cost Manhattan="1" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="5"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="15" Status="mapped"/>
+            <SimulationTime Value="2740000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="5" Status="mapped"/>
+            <SimulationTime Value="3090000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="15" Status="mapped"/>
+            <SimulationTime Value="3449000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="14" Status="mapped"/>
+            <SimulationTime Value="3808000"/>
+        </Task>
+        <Cost Manhattan="2" Reconfiguration="2"/>
+    </Application>
+    <Application  Id="6"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="30" Status="mapped"/>
+            <SimulationTime Value="3865000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="30" Status="mapped"/>
+            <SimulationTime Value="4173000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="20" Status="mapped"/>
+            <SimulationTime Value="4532000"/>
+        </Task>
+        <Cost Manhattan="1" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="7"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="11" Status="mapped"/>
+            <SimulationTime Value="4589000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="21" Status="mapped"/>
+            <SimulationTime Value="4955000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="8"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="1" Status="mapped"/>
+            <SimulationTime Value="5012000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="1" Status="mapped"/>
+            <SimulationTime Value="5320000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="11" Status="mapped"/>
+            <SimulationTime Value="5679000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="21" Status="mapped"/>
+            <SimulationTime Value="6088000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="1"  TileId="2" Status="mapped"/>
+            <SimulationTime Value="6497000"/>
+        </Task>
+        <Cost Manhattan="4" Reconfiguration="4"/>
+    </Application>
+    <Application  Id="9"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="25" Status="mapped"/>
+            <SimulationTime Value="6554000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="24" Status="mapped"/>
+            <SimulationTime Value="6904000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="10"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="48" Status="mapped"/>
+            <SimulationTime Value="6961000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="47" Status="mapped"/>
+            <SimulationTime Value="7327000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="47" Status="mapped"/>
+            <SimulationTime Value="7728000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="38" Status="mapped"/>
+            <SimulationTime Value="8129000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="1"  TileId="58" Status="mapped"/>
+            <SimulationTime Value="8514000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="38" Status="mapped"/>
+            <SimulationTime Value="8915000"/>
+        </Task>
+        <Task  Id="6">
+            <Location CoreId="0"  TileId="58" Status="mapped"/>
+            <SimulationTime Value="9332000"/>
+        </Task>
+        <Cost Manhattan="10" Reconfiguration="6"/>
+    </Application>
+    <Application  Id="11"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="68" Status="mapped"/>
+            <SimulationTime Value="9389000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="78" Status="mapped"/>
+            <SimulationTime Value="9739000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="12"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="55" Status="mapped"/>
+            <SimulationTime Value="9796000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="45" Status="mapped"/>
+            <SimulationTime Value="10146000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="13"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="94" Status="mapped"/>
+            <SimulationTime Value="10203000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="94" Status="mapped"/>
+            <SimulationTime Value="10495000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="84" Status="mapped"/>
+            <SimulationTime Value="10854000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="93" Status="mapped"/>
+            <SimulationTime Value="11255000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="84" Status="mapped"/>
+            <SimulationTime Value="11656000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="93" Status="mapped"/>
+            <SimulationTime Value="12057000"/>
+        </Task>
+        <Cost Manhattan="6" Reconfiguration="4"/>
+    </Application>
+    <Application  Id="14"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="81" Status="mapped"/>
+            <SimulationTime Value="12114000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="82" Status="mapped"/>
+            <SimulationTime Value="12480000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="15"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="32" Status="mapped"/>
+            <SimulationTime Value="12537000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="33" Status="mapped"/>
+            <SimulationTime Value="12903000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="22" Status="mapped"/>
+            <SimulationTime Value="13288000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="32" Status="mapped"/>
+            <SimulationTime Value="13631000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="1"  TileId="31" Status="mapped"/>
+            <SimulationTime Value="13990000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="33" Status="mapped"/>
+            <SimulationTime Value="14391000"/>
+        </Task>
+        <Cost Manhattan="5" Reconfiguration="4"/>
+    </Application>
+    <Application  Id="16"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="44" Status="mapped"/>
+            <SimulationTime Value="14448000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="43" Status="mapped"/>
+            <SimulationTime Value="14814000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="54" Status="mapped"/>
+            <SimulationTime Value="15231000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="45" Status="mapped"/>
+            <SimulationTime Value="15648000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="44" Status="mapped"/>
+            <SimulationTime Value="15991000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="43" Status="mapped"/>
+            <SimulationTime Value="16366000"/>
+        </Task>
+        <Task  Id="6">
+            <Location CoreId="1"  TileId="41" Status="mapped"/>
+            <SimulationTime Value="16783000"/>
+        </Task>
+        <Cost Manhattan="12" Reconfiguration="7"/>
+    </Application>
+    <Application  Id="17"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="20" Status="mapped"/>
+            <SimulationTime Value="16856000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="10" Status="mapped"/>
+            <SimulationTime Value="17190000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="19" Status="mapped"/>
+            <SimulationTime Value="17607000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="10" Status="mapped"/>
+            <SimulationTime Value="18008000"/>
+        </Task>
+        <Cost Manhattan="4" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="18"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="17" Status="mapped"/>
+            <SimulationTime Value="18065000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="17" Status="mapped"/>
+            <SimulationTime Value="18357000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="16" Status="mapped"/>
+            <SimulationTime Value="18732000"/>
+        </Task>
+        <Cost Manhattan="1" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="19"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="2" Status="mapped"/>
+            <SimulationTime Value="18789000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="3" Status="mapped"/>
+            <SimulationTime Value="19123000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="12" Status="mapped"/>
+            <SimulationTime Value="19524000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="3" Status="mapped"/>
+            <SimulationTime Value="20210000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="13" Status="mapped"/>
+            <SimulationTime Value="20619000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="22" Status="mapped"/>
+            <SimulationTime Value="21337000"/>
+        </Task>
+        <Task  Id="6">
+            <Location CoreId="1"  TileId="4" Status="mapped"/>
+            <SimulationTime Value="21754000"/>
+        </Task>
+        <Cost Manhattan="11" Reconfiguration="9"/>
+    </Application>
+    <Application  Id="20"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="91" Status="mapped"/>
+            <SimulationTime Value="21819000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="91" Status="mapped"/>
+            <SimulationTime Value="22027000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="0"/>
+    </Application>
+    <Application  Id="21"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="100" Status="mapped"/>
+            <SimulationTime Value="22042000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="90" Status="mapped"/>
+            <SimulationTime Value="22408000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="90" Status="mapped"/>
+            <SimulationTime Value="22809000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="89" Status="mapped"/>
+            <SimulationTime Value="23218000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="1"  TileId="80" Status="mapped"/>
+            <SimulationTime Value="23635000"/>
+        </Task>
+        <Cost Manhattan="5" Reconfiguration="6"/>
+    </Application>
+    <Application  Id="22"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="26" Status="mapped"/>
+            <SimulationTime Value="23700000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="16" Status="mapped"/>
+            <SimulationTime Value="24034000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="28" Status="mapped"/>
+            <SimulationTime Value="24459000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="25" Status="mapped"/>
+            <SimulationTime Value="24868000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="24" Status="mapped"/>
+            <SimulationTime Value="25293000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="1"  TileId="36" Status="mapped"/>
+            <SimulationTime Value="25686000"/>
+        </Task>
+        <Cost Manhattan="13" Reconfiguration="7"/>
+    </Application>
+    <Application  Id="23"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="52" Status="mapped"/>
+            <SimulationTime Value="25743000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="42" Status="mapped"/>
+            <SimulationTime Value="26093000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="24"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="89" Status="mapped"/>
+            <SimulationTime Value="26150000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="99" Status="mapped"/>
+            <SimulationTime Value="26500000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="99" Status="mapped"/>
+            <SimulationTime Value="26901000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="88" Status="mapped"/>
+            <SimulationTime Value="27302000"/>
+        </Task>
+        <Cost Manhattan="4" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="25"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="73" Status="mapped"/>
+            <SimulationTime Value="27359000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="63" Status="mapped"/>
+            <SimulationTime Value="27709000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="72" Status="mapped"/>
+            <SimulationTime Value="28110000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="74" Status="mapped"/>
+            <SimulationTime Value="28511000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="74" Status="mapped"/>
+            <SimulationTime Value="28896000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="1"  TileId="64" Status="mapped"/>
+            <SimulationTime Value="29305000"/>
+        </Task>
+        <Task  Id="6">
+            <Location CoreId="1"  TileId="83" Status="mapped"/>
+            <SimulationTime Value="29714000"/>
+        </Task>
+        <Cost Manhattan="14" Reconfiguration="7"/>
+    </Application>
+    <Application  Id="26"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="8" Status="mapped"/>
+            <SimulationTime Value="29771000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="18" Status="mapped"/>
+            <SimulationTime Value="30121000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="18" Status="mapped"/>
+            <SimulationTime Value="30522000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="7" Status="mapped"/>
+            <SimulationTime Value="30939000"/>
+        </Task>
+        <Cost Manhattan="2" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="27"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="98" Status="mapped"/>
+            <SimulationTime Value="30996000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="88" Status="mapped"/>
+            <SimulationTime Value="31346000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="98" Status="mapped"/>
+            <SimulationTime Value="31705000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="78" Status="mapped"/>
+            <SimulationTime Value="32072000"/>
+        </Task>
+        <Cost Manhattan="4" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="28"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="48" Status="mapped"/>
+            <SimulationTime Value="32137000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="57" Status="mapped"/>
+            <SimulationTime Value="32511000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="2"/>
+    </Application>
+    <Application  Id="29"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="71" Status="mapped"/>
+            <SimulationTime Value="32576000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="71" Status="mapped"/>
+            <SimulationTime Value="32884000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="81" Status="mapped"/>
+            <SimulationTime Value="33243000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="61" Status="mapped"/>
+            <SimulationTime Value="33644000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="61" Status="mapped"/>
+            <SimulationTime Value="34045000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="72" Status="mapped"/>
+            <SimulationTime Value="34446000"/>
+        </Task>
+        <Task  Id="6">
+            <Location CoreId="1"  TileId="62" Status="mapped"/>
+            <SimulationTime Value="34855000"/>
+        </Task>
+        <Cost Manhattan="6" Reconfiguration="6"/>
+    </Application>
+    <Application  Id="30"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="76" Status="mapped"/>
+            <SimulationTime Value="34920000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="66" Status="mapped"/>
+            <SimulationTime Value="35270000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="77" Status="mapped"/>
+            <SimulationTime Value="35671000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="66" Status="mapped"/>
+            <SimulationTime Value="36072000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="1"  TileId="75" Status="mapped"/>
+            <SimulationTime Value="36489000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="76" Status="mapped"/>
+            <SimulationTime Value="36848000"/>
+        </Task>
+        <Cost Manhattan="5" Reconfiguration="4"/>
+    </Application>
+    <Application  Id="31"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="37" Status="mapped"/>
+            <SimulationTime Value="36863000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="36" Status="mapped"/>
+            <SimulationTime Value="37213000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="32"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="40" Status="mapped"/>
+            <SimulationTime Value="37270000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="50" Status="mapped"/>
+            <SimulationTime Value="37620000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="9" Status="mapped"/>
+            <SimulationTime Value="38061000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="29" Status="mapped"/>
+            <SimulationTime Value="38494000"/>
+        </Task>
+        <Cost Manhattan="7" Reconfiguration="7"/>
+    </Application>
+    <Application  Id="33"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="39" Status="mapped"/>
+            <SimulationTime Value="38559000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="39" Status="mapped"/>
+            <SimulationTime Value="38851000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="19" Status="mapped"/>
+            <SimulationTime Value="39218000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="1"  TileId="49" Status="mapped"/>
+            <SimulationTime Value="39944000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="40" Status="mapped"/>
+            <SimulationTime Value="40646000"/>
+        </Task>
+        <Task  Id="5">
+            <Location CoreId="0"  TileId="49" Status="mapped"/>
+            <SimulationTime Value="41047000"/>
+        </Task>
+        <Cost Manhattan="13" Reconfiguration="5"/>
+    </Application>
+    <Application  Id="34"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="92" Status="mapped"/>
+            <SimulationTime Value="41104000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="92" Status="mapped"/>
+            <SimulationTime Value="41412000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="82" Status="mapped"/>
+            <SimulationTime Value="41771000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="62" Status="mapped"/>
+            <SimulationTime Value="42188000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="1"  TileId="95" Status="mapped"/>
+            <SimulationTime Value="42938000"/>
+        </Task>
+        <Cost Manhattan="16" Reconfiguration="7"/>
+    </Application>
+    <Application  Id="35"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="42" Status="mapped"/>
+            <SimulationTime Value="43011000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="34" Status="mapped"/>
+            <SimulationTime Value="43393000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="36"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="67" Status="mapped"/>
+            <SimulationTime Value="43466000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="67" Status="mapped"/>
+            <SimulationTime Value="43774000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="0"/>
+    </Application>
+    <Application  Id="37"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="35" Status="mapped"/>
+            <SimulationTime Value="43789000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="55" Status="mapped"/>
+            <SimulationTime Value="44448000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="35" Status="mapped"/>
+            <SimulationTime Value="44815000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="34" Status="mapped"/>
+            <SimulationTime Value="45174000"/>
+        </Task>
+        <Cost Manhattan="5" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="38"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="65" Status="mapped"/>
+            <SimulationTime Value="45231000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="75" Status="mapped"/>
+            <SimulationTime Value="45597000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="64" Status="mapped"/>
+            <SimulationTime Value="45982000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="54" Status="mapped"/>
+            <SimulationTime Value="46391000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="68" Status="mapped"/>
+            <SimulationTime Value="46816000"/>
+        </Task>
+        <Cost Manhattan="7" Reconfiguration="7"/>
+    </Application>
+    <Application  Id="39"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="79" Status="mapped"/>
+            <SimulationTime Value="46889000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="79" Status="mapped"/>
+            <SimulationTime Value="47147000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="0"/>
+    </Application>
+    <Application  Id="40"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="65" Status="mapped"/>
+            <SimulationTime Value="47162000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="57" Status="mapped"/>
+            <SimulationTime Value="47528000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="53" Status="mapped"/>
+            <SimulationTime Value="48246000"/>
+        </Task>
+        <Cost Manhattan="4" Reconfiguration="6"/>
+    </Application>
+    <Application  Id="41"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="52" Status="mapped"/>
+            <SimulationTime Value="48319000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="31" Status="mapped"/>
+            <SimulationTime Value="48685000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="42"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="7" Status="mapped"/>
+            <SimulationTime Value="48758000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="6" Status="mapped"/>
+            <SimulationTime Value="49124000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="0"  TileId="6" Status="mapped"/>
+            <SimulationTime Value="49525000"/>
+        </Task>
+        <Task  Id="3">
+            <Location CoreId="0"  TileId="8" Status="mapped"/>
+            <SimulationTime Value="49926000"/>
+        </Task>
+        <Task  Id="4">
+            <Location CoreId="0"  TileId="5" Status="mapped"/>
+            <SimulationTime Value="50351000"/>
+        </Task>
+        <Cost Manhattan="3" Reconfiguration="5"/>
+    </Application>
+    <Application  Id="43"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="100" Status="mapped"/>
+            <SimulationTime Value="50416000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="97" Status="mapped"/>
+            <SimulationTime Value="51083000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="3"/>
+    </Application>
+    <Application  Id="44"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="1"  TileId="86" Status="mapped"/>
+            <SimulationTime Value="51156000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="86" Status="mapped"/>
+            <SimulationTime Value="51464000"/>
+        </Task>
+        <Task  Id="2">
+            <Location CoreId="1"  TileId="96" Status="mapped"/>
+            <SimulationTime Value="51823000"/>
+        </Task>
+        <Cost Manhattan="1" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="45"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="80" Status="mapped"/>
+            <SimulationTime Value="51880000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="1"  TileId="70" Status="mapped"/>
+            <SimulationTime Value="52230000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="1"/>
+    </Application>
+    <Application  Id="46"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="50" Status="mapped"/>
+            <SimulationTime Value="52287000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="9" Status="mapped"/>
+            <SimulationTime Value="53002000"/>
+        </Task>
+        <Cost Manhattan="0" Reconfiguration="5"/>
+    </Application>
+    <Application  Id="47"  Status="attempt to map">
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="83" Status="mapped"/>
+            <SimulationTime Value="53091000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="95" Status="mapped"/>
+            <SimulationTime Value="54645000"/>
+        </Task>
+        <Task  Id="1">
+            <Location CoreId="0"  TileId="95" Status="released"/>
+            <SimulationTime Value="55347000"/>
+        </Task>
+        <Task  Id="0">
+            <Location CoreId="0"  TileId="83" Status="released"/>
+            <SimulationTime Value="55418000"/>
+        </Task>
+    </Application>
+</NoRCPlatform>

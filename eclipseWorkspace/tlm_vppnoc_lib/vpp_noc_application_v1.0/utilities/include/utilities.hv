@@ -1,0 +1,130 @@
+#ifndef UTILITIES_H_
+#define UTILITIES_H_
+
+#include <iostream>
+#include <fstream>
+#include <model/include/modelutilities.h>
+#include <model/protocol_data_unit/include/noc_payload_base.h>
+
+//#define DEBUG
+//#define DEBUG_SYSTEMC
+//#define COMPONENT_POWER
+//#define TRAFFIC_PROFILE
+#define TASK_MAPPING_PATTERN_LOG
+
+
+#define MESSAGE_DATA_LENGTH 													   300 //+16 = 1040
+#define PACKET_DATA_LENGTH   	 	 	 	 	 	 	 	 	 	 	 	 	   128//32// 256 //+32  = 160
+#define FLIT_DATA_LENGTH  														   64//16 // 64 //+48   = 112 --> 120
+#define PHIT_DATA_LENGTH    													   32//16 // 32 //+12   = 44
+
+#define RIGHT_PORT	                                                               0
+#define UP_PORT		                                                               1
+#define LEFT_PORT	                                                               2
+#define DOWN_PORT	                                                               3
+#define LOCAL_PORT	                                                               4
+
+#define  NO_OF_ROW_CONST                                                           4
+#define  NO_OF_COL_CONST                                                           4
+#define  NR_OF_CHANNEL_CONST                                                       2
+#define  NR_OF_INPUT_CHANNEL_CONST                                                 2
+#define  NR_OF_OUTPUT_CHANNEL_CONST                                                2
+#define  INPUT_CHANNEL_BUFFER_LENGTH_CONST                                         4
+#define  OUTPUT_CHANNEL_BUFFER_LENGTH_CONST                                        4
+#define  NR_OF_ROUTER_PORT_CONST                                                   5
+
+//Address map in a tile
+#define NETWORK_INTERFACE_ADD                                                      0x0000000000000000
+#define RTR_CORE_0_INTERFACE_ADD                                                   0x0000000000000001
+#define RTR_CORE_1_INTERFACE_ADD                                                   0x0000000000000002
+#define MEMORY_MODULE                                                              0x0000000000000003
+
+#define AMBABUS_TO_TRANSPORT_DELAY                                                 1
+#define TRANSPORT_TO_NETWORK_DELAY                                                 1
+#define NETWORK_TO_PHYSICAL_DELAY                                                  1
+#define PHYSICAL_TO_PHYSICAL_DELAY                                                 1
+									                                               
+//Delay in SC_NS					                                               
+#define NETWORK_LAYER_UPSTREAM_INPUT_BUFFER_DELAY                                  1
+#define TRANSPORT_LAYER_UPSTREAM_INPUT_BUFFER_DELAY                                1
+#define ROUTER_ALGORITHM_DELAY                                                     2
+#define ARBITER_DELAY                                                              1
+#define SWITCHING_DELAY                                                            1
+#define OUTPUT_BUFF_DELAY                                                          1
+#define OUTPUT_BUFF_CNT_DELAY                                                      1
+
+#define NR_OF_TRANSPORT_LAYER_CHANNEL                                              4
+#define RETRY_DELAY_CORE_TO_TRANSPORT_LAYER                                        10
+#define INFINITIVE                                                                 1000000
+//#define TASK_SEEK_LIFE_TIME                                                        5
+#define NUMBER_OF_RETRY_TO_MAP_TASK                                                5
+
+#define NO_OF_RECONFIGURABLE_CORE                                                  2
+#define RECONFIGURATION_RELEASE_WAIT                                               200
+
+#define RETURN_CHANNEL_NUMBER                                                      NO_OF_RECONFIGURABLE_CORE+1
+
+#define NR_OF_NETWORK_LAYER_CHANNEL                                                5
+#define NETWORK_INPUT_BUFFER_LENGTH                                                10
+
+#define NR_OF_PHYSICAL_LAYER_CHANNEL                                               5
+#define PHY_WAIT_FOR_EMPTY_SPACE_DELAY                                             10
+#define PHY_INPUT_BUFFER_LENGTH                                                    10
+
+// ROUTER POWER CONSTANTS/////////////////
+
+#define      ROUTER_FORWARD_INPUT_PORT_POWER                                       1.0
+#define      ROUTER_BACKWARD_INPUT_PORT_POWER                                      1.0
+#define      ROUTER_INPUT_CONTROLLER_POWER                                         2.0
+#define      ROUTER_INPUT_BUFFER_POWER	                                           4.0
+#define      ROUTER_ROUTING_POWER	                                               3.0
+#define      ROUTER_ARBITER_POWER	                                               2.0
+#define      ROUTER_SWITCHING_POWER	                                               2.0
+#define      ROUTER_OUTPUT_BUFFER_POWER	                                           2.0
+#define      ROUTER_OUTPUT_CONTROLLER_POWER	                                       3.0
+
+
+
+
+/////////////////////////////////////////
+enum TileTypeEnum   {DUMMY_TILE,
+					 IO_TILE = 0,
+					 INTER_TILE
+						} ;
+typedef TileTypeEnum                 TileType;
+enum ChannelStateEnum  { CHANNEL_IDLE,
+						 CHANNEL_WAIT,
+						 CHANNEL_FREE,
+						 CHANNEL_BLKED
+						};
+
+
+typedef ChannelStateEnum   ChannelStateType;
+
+typedef    tlm_noc::noc_payload_base	 transaction_type;
+typedef    tlm::tlm_phase            phase_type;
+typedef    tlm::tlm_sync_enum        sync_enum_type;
+
+ enum ActivityTypeEnum { CORE_FREE,
+						 CORE_ACTIVE,
+						 CORE_RESERVED
+					     };
+typedef ActivityTypeEnum   ActivityType;
+
+
+#define UNDER_CONSTRUCTION() std::cout << "Under construction "<< "File name : " << __FILE__ << " Line Number: " << __LINE__ << std::endl
+#define LogReport()           std::cout << "\t\tFunction Name: "<< __FUNCTION__ << "\n\t\tFile name : " << __FILE__ << "\n\t\tLine Number: " << __LINE__ << std::endl
+
+
+
+void PrMsg(char* FileName, int LineNumber, sc_core::sc_module_name name);
+#define LogPhit(phit)  std::cout << "=====Phit Log======\n" << " m_b_last_phit = " << noc_gp_hdr(phit, m_b_last_phit)  << "\n m_phit_no = " << noc_gp_hdr(phit, m_phit_no) <<std::endl;
+
+
+void trafficLog(sc_core::sc_module_name name, int id, char direction[]);
+#define PrintMessage() PrMsg(__FILE__, __LINE__, name())
+
+void PrintMemoryInfo( DWORD processID );
+
+#endif /*UILITIES_H_*/
+

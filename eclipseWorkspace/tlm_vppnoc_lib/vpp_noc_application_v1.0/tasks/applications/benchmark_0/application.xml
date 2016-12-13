@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ALLApplications>
+  <Application>
+    <Id>1</Id>
+    <Size>9</Size>
+    <NominalPeriod>9</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application> 
+    <Id>2</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+   
+  <Application>
+    <Id>3</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>4</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>5</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>6</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>7</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>8</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+ 
+  <Application>
+    <Id>9</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>10</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>11</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>12</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>13</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>14</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+ 
+  <Application>
+    <Id>15</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>16</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>17</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>18</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>19</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>20</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>21</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>22</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>23</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>24</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>25</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>26</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>27</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>28</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>29</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>30</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>31</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>32</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>33</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+   
+  <Application>
+    <Id>34</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>35</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>36</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>37</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>38</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>39</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>40</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>41</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>42</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>43</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>44</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>45</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>46</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>47</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>48</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>49</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>50</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+<!--
+  <Application>
+    <Id>51</Id>
+    <Size>9</Size>
+    <NominalPeriod>9</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>52</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>53</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>54</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>55</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>56</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>57</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>58</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>59</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>60</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>61</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>62</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>63</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>64</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>65</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>66</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>67</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>68</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>69</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>70</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>71</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>72</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>73</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>74</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>75</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>76</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>77</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>78</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>79</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>80</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>81</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>82</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>83</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>84</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>85</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>86</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>87</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>88</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>89</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>90</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>91</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>92</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>93</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>94</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>95</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>96</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>97</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>98</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>99</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>100</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+
+  <Application>
+    <Id>101</Id>
+    <Size>9</Size>
+    <NominalPeriod>9</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application> 
+    <Id>102</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+   
+  <Application>
+    <Id>103</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>104</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>105</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>106</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>107</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>108</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+ 
+  <Application>
+    <Id>109</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>110</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>111</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>112</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>113</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>114</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+ 
+  <Application>
+    <Id>115</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>116</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>117</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>118</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>119</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>120</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>121</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+    <Application>
+    <Id>122</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>123</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>124</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>125</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>126</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+  <Application>
+    <Id>127</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>128</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>129</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>130</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>131</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>132</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>133</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+   
+  <Application>
+    <Id>134</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>135</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>136</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>137</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>138</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>139</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>140</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>141</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>142</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>143</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>144</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>145</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>146</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>147</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>148</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>149</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+  
+  <Application>
+    <Id>150</Id>
+    <Size>9</Size>
+    <NominalPeriod>97</NominalPeriod>
+    <MinimumPeriod>20</MinimumPeriod>
+    <MaximumPeriod>200</MaximumPeriod>
+    <Name>JPEG</Name>
+    <FileName>jpeg.xml</FileName>
+  </Application>
+
+-->
+</ALLApplications>

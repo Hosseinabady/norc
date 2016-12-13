@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            class="com.hosseinabady.norc_designer_plugin.editors.NoRCGraphicalEditor"
+            contributorClass="com.hosseinabady.norc_designer_plugin.editors.NoRCGraphicalEditorContributor"
+            default="false"
+            extensions="soc"
+            id="norc_designer_plugin.norcgraphicaleditor"
+            name="%editor.name.0">
+      </editor>
+      <editor
+            class="com.hosseinabady.norc_designer_plugin.editors.NoRCChartEditor"
+            default="true"
+            extensions="xml"
+            icon="icons/graph_icon16.bmp"
+            id="NoRC_Designer_Plugin.editors.ChartEditor"
+            name="ChartEditor">
+      </editor>
+      <editor
+            class="com.hosseinabady.norc_designer_plugin.editors.NoRCMappedTaskPatternEditor"
+            default="true"
+            icon="icons/patternIcon16x16.jpg"
+            id="NoRC_Designer_Plugin.editors.MappedTaskPatternEditor"
+            name="MappedTaskPatternEditor">
+      </editor>
+      <editor
+            class="com.hosseinabady.norc_designer_plugin.editors.NoRCPowerPatternEditor"
+            default="true"
+            icon="icons/powerPattern.jpg"
+            id="NoRC_Designer_Plugin.editors.PowerPatternEditor"
+            name="PowerPatternEditor">
+      </editor>
+   </extension>
+   <extension
+         point="org.eclipse.ui.commands">
+      <category
+            description="Command related to NoRC Designer Plugin"
+            id="NoRC_Designer_Plugin.commands.category"
+            name="NoRC_Designer_Plugin">
+      </category>
+      <command
+            categoryId="NoRC_Designer_Plugin.commands.category"
+            description="Generate SystemC Code"
+            id="NoRC_Designer_Plugin.commands.systemCCodeGeneration"
+            name="SystemC Code Generation">
+      </command>
+      <command
+            categoryId="NoRC_Designer_Plugin.commands.category"
+            description="Schematic Checker"
+            id="NoRC_Designer_Plugin.commands.schematicChecker"
+            name="Schematic Checker">
+      </command>
+      <command
+            categoryId="NoRC_Designer_Plugin.commands.category"
+            description="Debug Features"
+            id="NoRC_Designer_Plugin.commands.debug"
+            name="Debug Features">
+      </command>
+      <command
+            categoryId="NoRC_Designer_Plugin.commands.category"
+            description="Router Reports"
+            id="NoRC_Designer_Plugin.commands.routerReport"
+            name="Router Reports">
+      </command>
+      <command
+            categoryId="NoRC_Designer_Plugin.commands.category"
+            description="Mapped Task Pattern"
+            id="NoRC_Designer_Plugin.commands.mappedTaskPattern"
+            name="Mapped Task Pattern">
+      </command>
+      <command
+            categoryId="NoRC_Designer_Plugin.commands.category"
+            description="Power Pattern"
+            id="NoRC_Designer_Plugin.commands.powerPattern"
+            name="Power Pattern">
+      </command>
+   </extension>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            locationURI="menu:org.eclipse.ui.main.menu?after=additions">
+         <menu
+               id="NoRC_Designer_Plugin.menus.systemCCodeGenerationMenu"
+               label="NoRC"
+               mnemonic="G">
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.systemCCodeGeneration"
+                  icon="icons/SystemCCodeGeneration_32.gif"
+                  id="NoRC_Designer_Plugin.menus.systemCCodeGeneration"
+                  mnemonic="S"
+                  style="push">
+            </command>
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.schematicChecker"
+                  id="NoRC_Designer_Plugin.menus.schematicChecker"
+                  mnemonic="C"
+                  style="push">
+            </command>
+         </menu>
+         <menu
+               id="NoRC_Designer_Plugin.menus.debugMenu"
+               label="Debug"
+               mnemonic="D">
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.debug"
+                  id="NoRC_Designer_Plugin.menus.debug"
+                  style="push">
+            </command>
+         </menu>
+         <menu
+               id="NoRC_Designer_Plugin.menus.analysisMenu"
+               label="Analysis"
+               mnemonic="A">
+         </menu>
+         <menu
+               id="NoRC_Designer_Plugin.menus.reportMenu"
+               label="Report"
+               mnemonic="R">
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.routerReport"
+                  icon="icons/graph_icon16.bmp"
+                  id="NoRC_Designer_Plugin.commands.openRouterReport"
+                  mnemonic="R"
+                  style="push">
+            </command>
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.mappedTaskPattern"
+                  icon="icons/patternIcon16x16.jpg"
+                  id="NoRC_Designer_Plugin.commands.openMappedTaskPattern"
+                  mnemonic="T"
+                  style="push">
+            </command>
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.powerPattern"
+                  icon="icons/powerPattern.jpg"
+                  id="NoRC_Designer_Plugin.commands.openPowerPattern"
+                  mnemonic="P"
+                  style="push">
+            </command>
+         </menu>
+      </menuContribution>
+      <menuContribution
+            locationURI="toolbar:org.eclipse.ui.main.toolbar?after=additions">
+         <toolbar
+               id="NoRC_Designer_Plugin.toolbars.main">
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.systemCCodeGeneration"
+                  icon="icons/SystemCCodeGeneration_16.gif"
+                  id="norc_designer_plugin.toolbars.systemCCodeGeneration"
+                  style="push"
+                  tooltip="Generate SystemC Code">
+            </command>
+         </toolbar>
+      </menuContribution>
+      <menuContribution
+            locationURI="popup:org.eclipse.ui.popup.any?after=additions">
+         <menu
+               label="SystemC Code Generation">
+            <command
+                  commandId="NoRC_Designer_Plugin.commands.systemCCodeGeneration"
+                  icon="icons/SystemCCodeGeneration_32.gif"
+                  style="push">
+            </command>
+         </menu>
+      </menuContribution>
+   </extension>
+   <extension
+         point="org.eclipse.ui.handlers">
+      <handler
+            class="com.hosseinabady.norc_designer_plugin.handlers.SystemCCodeGenerationHandler"
+            commandId="NoRC_Designer_Plugin.commands.systemCCodeGeneration"
+            helpContextId="SystemC Code Generation">
+      </handler>
+      <handler
+            class="com.hosseinabady.norc_designer_plugin.handlers.DebugHandler"
+            commandId="NoRC_Designer_Plugin.commands.debug">
+      </handler>
+      <handler
+            class="com.hosseinabady.norc_designer_plugin.handlers.RouterReportHandler"
+            commandId="NoRC_Designer_Plugin.commands.routerReport"
+            helpContextId="Router Report generation">
+      </handler>
+      <handler
+            class="com.hosseinabady.norc_designer_plugin.handlers.MappedTaskPatternHandler"
+            commandId="NoRC_Designer_Plugin.commands.mappedTaskPattern"
+            helpContextId="Mapped Task Pattern">
+      </handler>
+      <handler
+            class="com.hosseinabady.norc_designer_plugin.handlers.PowerPatternHandler"
+            commandId="NoRC_Designer_Plugin.commands.powerPattern"
+            helpContextId="Power Pattern">
+      </handler>
+   </extension>
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            id="NoRC_Designer_Plugin.norcView"
+            name="norc_view">
+      </category>
+      <view
+            category="NoRC_Designer_Plugin.norcView"
+            class="com.hosseinabady.norc_designer_plugin.views.MemoryView"
+            icon="icons/Memory-icon.GIF"
+            id="NoRC_Designer_Plugin.memory"
+            name="memory_view"
+            restorable="true">
+      </view>
+      <view
+            category="NoRC_Designer_Plugin.norcView"
+            class="com.hosseinabady.norc_designer_plugin.views.TaskView"
+            id="NoRC_Designer_Plugin.taskView"
+            name="Task View"
+            restorable="true">
+      </view>
+   </extension>
+
+</plugin>
